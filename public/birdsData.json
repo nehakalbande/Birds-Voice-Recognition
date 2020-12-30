@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Bird Voice Recognition",
+    "description":"Have you ever wondered about the name of the bird you just heard singing? This project is designed to be a collaboration on a real-life problem which machine learning can help to solve with a typica.Are you curious about the solution that has been built? We invite you to travel into a world of birds songs.",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "Bird_Music":[
+      {
+        "school":"What is Bird music?",
+        
+        "description":"The sounds birds make include calls and songs.The more structured vocalizations are usually songs to attract a mate or defend territory while shorter, less rhythmic sounds are calls used to communicate with each other."
+      }
+    ],
+    "Sound_Therapy":[
+      {
+        "company":"What is sound Therapy?",
+        "description":"Sound has been used to heal and calm people for thousands of years. Himalayan singing bowls used in Asia during prayer and meditation are said to have positive effects on one’s health and well-being.This is just one example of age-old instruments from all over the world being applied as healing instruments.Sound therapy is based on the premise that we are all made up of energy frequencies, and audio frequencies can interact with our body’s energy to rebalance our system.Since music is basically just organised sound, it can be deconstructed to have powerful effects on our physical and psychological well-being."
+      }
+    ],
+    "Stress_Reduction":[
+      {
+        "company":"Why Is Bird Music So Powerful For Relaxation And Reducing Anxiety??",
+        "description":"In today’s fast-paced world, it is vital to make lifestyle choices that will reduce stress and ultimately prolong your life.It has been revealed that listening to slow tempo, low pitched music with no lyrics can reduce stress and anxiety in people who are to undergo invasive surgery.1. Invokes positive memories2. Shifts the focus3. Change of stimuli4. A welcome distraction5.Lower stress responses 6.Improves Sleep"
+      }
+      
+    ],
+    "Smartphone_App":[
+      {
+        "company":"SmartPhone Applications",
+        "description":"Some smartphone applications are there that accurately identify birds in their backyard, local park, or nature trail—all with the tap of a button! Just hold up your phone, record the bird singing, and it will help you identify the species. The app’s highly developed sound identification engine and expert matching system enable anyone to achieve results with previously unheard of accuracy. It’s perfect for anyone who is curious and wants to learn more about the birds around them."
+      }
+    ]
+  
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Our Logo",
+        "category":"cheerful and lively birds",
+        "image":"CHIRPY.png",
+         "url":"https://drive.google.com/file/d/1Ll7rAEGzq3xlVl6LeGa7fgB59KL-CLbQ/view?usp=sharing"
+
+      },
+      {
+        "title":"Presentation",
+        "category":"Overview of Project",
+        "image":"b.png",
+        "url":"https://drive.google.com/file/d/1t9qVFE65ZqPX4NU8yl3TbWw3PQkrx8X6/view?usp=sharing"
+        
+      },
+      {
+        "title":"Birds Soothing",
+        "category":"Relaxing Music With Birds Singing",
+        "image":"a.jpeg",
+        "url":"https://www.youtube.com/watch?v=FMrtSHAAPhM"
+      }
+    ]
+  }
+}

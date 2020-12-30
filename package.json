@@ -1,0 +1,28 @@
+{
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "homepage": "http://./",
+  "private": true,
+  "dependencies": {
+    "anix": "^0.3.3",
+    "axios": "^0.21.1",
+    "background-video": "^2.0.1",
+    "jquery": "^3.5.1",
+    "particles-bg": "^2.5.0",
+    "react": "^16.14.0",
+    "react-audio-player": "^0.14.0",
+    "react-dom": "^16.14.0",
+    "react-ga": "^2.7.0",
+    "react-scripts": "^1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
