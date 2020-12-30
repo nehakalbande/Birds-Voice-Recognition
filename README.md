@@ -1,6 +1,4 @@
-# React Nice Resume     
-
-### DEMO is [here]("https://drive.google.com/drive/folders/1Q6AI7uC_29-ORbi6lwiPFMI3l9lNRMU1?usp=sharing")
+# Birds-Voice-Recognition    
 
 ## Run Project
 ### 1. Clone the project
